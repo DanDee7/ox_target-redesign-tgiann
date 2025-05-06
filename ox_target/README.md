@@ -1,5 +1,3 @@
-
-# Redesigned by ItzMuri
 ![image](https://github.com/user-attachments/assets/5f033282-cddf-48eb-848a-017da9cc6bbf)
 
 
