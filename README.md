@@ -27,4 +27,4 @@ https://overextended.dev/ox_target
 - Registering options no longer overrides existing options.
 - Groups and items checking for supported frameworks.
 
-# credit to ItzMuri
+# credit to ItzMuri, 𝓟𝓮𝓻𝓭𝓾𝓵𝓪𝓻𝓲𝓸
